@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3732ac50-4e27-4ece-9e18-b8385ee7438c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sse5WEb7dz0JgrVkkGsL21XnKR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharm_proj\yara assignment\processing_layer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.api">
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python">
+      <module name="yara assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="GITHUB_ACCESS_TOKEN" value="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" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\mohit\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="yara assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\mohit\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_layer" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_layer/db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="yara assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="GITHUB_ACCESS_TOKEN" value="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" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\mohit\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/processing_layer/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.api" />
+      <item itemvalue="Python.db" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3732ac50-4e27-4ece-9e18-b8385ee7438c" name="Default Changelist" comment="" />
+      <created>1621665542501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621665542501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622268538749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="266" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622268538749" />
+    <state x="524" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622123059142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1622123059142" />
+    <state x="548" y="121" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1621933390752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="121" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1621933390752" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621951261325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1621951261325" />
+    <state width="939" height="466" key="DebuggerActiveHint" timestamp="1622197524727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="939" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1622197524727" />
+    <state x="546" y="191" key="EnvironmentVariablesDialog" timestamp="1622268533850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="546" y="191" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1622268533850" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1622184315913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622184315913" />
+    <state width="1515" height="178" key="GridCell.Tab.0.bottom" timestamp="1622360908172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622360908172" />
+    <state width="1515" height="178" key="GridCell.Tab.0.center" timestamp="1622360908171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622360908171" />
+    <state width="1515" height="178" key="GridCell.Tab.0.left" timestamp="1622360908170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622360908170" />
+    <state width="1515" height="178" key="GridCell.Tab.0.right" timestamp="1622360908171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622360908171" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1622298425188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622298425188" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1622298425188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622298425188" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1622298425188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622298425188" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1622298425188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622298425188" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1622024809548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622024809548" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1622035619692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1622035619692" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1622351058915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1622351058915" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1622293278503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622293278503" />
+  </component>
+</project>

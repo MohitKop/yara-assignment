@@ -1,0 +1,30 @@
+version: 2
+
+jobs:
+  build: # This is mandatory block and only steps under this will be considered for compliance
+    docker:
+      - image: cimg/<language>:<version TAG>
+        auth:
+          username: mydockerhub-user
+          password: $DOCKERHUB_PASSWORD
+    steps:
+      - checkout
+      - run: <command> # contents under 'run' command will be ignored
+      - unit-test
+      - save_cache
+      - restore_cache
+  test: # any other optional blocks, steps under theses will be ignored
+    docker:
+      - image: cimg/<language>:<version TAG>
+        auth:
+          username: mydockerhub-user
+          password: $DOCKERHUB_PASSWORD
+    steps:
+      - checkout
+      - run: <command>
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - build
+      - test
