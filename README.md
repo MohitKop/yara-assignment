@@ -57,14 +57,14 @@ Besides it's a fully managed service with benifits like auto-scaling, in-memory 
 - Create an access token for Github.
 
   For more details check,
-  
+
   https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token#:~:text=Click%20Generate%20new%20token.,the%20command%20line%2C%20select%20repo.
 
   configure this token in 'github-variables.env' file.
 
 - Add the names of organizations in 'org.yml' file.
 
-- Go to the project local directory and use following docker command.
+- On local machine go to the project directory(/app folder) and use following docker command.
   > $ docker-compose up
 
 Application will start running on port 5000, on localhost.
